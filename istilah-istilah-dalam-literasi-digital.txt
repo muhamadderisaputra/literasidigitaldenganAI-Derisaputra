@@ -1,1 +1,98 @@
+40 Istilah Literasi Digital yang Berkaitan dengan Pembuatan Buku, Jurnal Ilmiah, dan Publikasi Digital
+
+Pendahuluan
+
+Perkembangan teknologi digital memudahkan proses pembuatan buku, penulisan jurnal ilmiah, dan publikasi karya secara daring. Dalam proses tersebut, literasi digital sangat penting agar seseorang mampu menggunakan teknologi, mengelola informasi, mencantumkan sumber dengan benar, serta menghormati hak cipta. Oleh karena itu, berikut adalah 40 istilah literasi digital beserta pengertiannya yang berkaitan dengan pembuatan buku, jurnal ilmiah, dan publikasi digital.
+
+A. Istilah dalam Pembuatan Buku Digital
+
+1. E-book (Electronic Book) Buku dalam bentuk digital yang dapat dibaca melalui HP, komputer, tablet, atau perangkat elektronik lainnya.
+
+2. EPUB (Electronic Publication) Format buku digital yang tampilannya dapat menyesuaikan ukuran layar perangkat pembaca.
+
+3. PDF (Portable Document Format) Format dokumen digital yang mempertahankan tata letak, gambar, dan tulisan agar tetap konsisten saat dibuka di berbagai perangkat.
+
+4. Layouting Proses mengatur tata letak teks, gambar, judul, dan halaman agar buku terlihat rapi dan mudah dibaca.
+
+5. Desain Grafis Proses membuat tampilan visual, seperti sampul buku, ilustrasi, dan elemen desain menggunakan perangkat digital.
+
+6. Thumbnail Gambar pratinjau yang digunakan untuk menarik perhatian pembaca terhadap buku atau konten digital.
+
+7. Daftar Isi Otomatis Fitur pengolah kata yang membuat daftar isi berdasarkan judul dan subjudul sehingga pembaruan halaman dapat dilakukan lebih mudah.
+
+8. Proofreading Proses memeriksa kesalahan ejaan, tanda baca, dan tata bahasa sebelum naskah diterbitkan.
+
+9. Editing Digital Proses memperbaiki isi, struktur kalimat, dan kejelasan bahasa menggunakan perangkat digital.
+
+10. Cloud Storage Layanan penyimpanan berkas secara daring, seperti Google Drive, yang memudahkan penulis menyimpan dan mengakses naskah dari berbagai perangkat.
+
+B. Istilah dalam Penulisan Jurnal Ilmiah
+
+11. Jurnal Ilmiah Digital Publikasi ilmiah dalam bentuk elektronik yang memuat hasil penelitian, kajian, atau pengembangan ilmu pengetahuan.
+
+12. Literature Review Kajian terhadap penelitian terdahulu untuk memahami perkembangan suatu topik dan mendukung penelitian baru.
+
+13. Sitasi (Citation) Penyebutan sumber yang digunakan dalam tulisan ilmiah untuk menunjukkan asal informasi, teori, atau gagasan.
+
+14. Daftar Pustaka Daftar sumber yang dirujuk dalam karya ilmiah, seperti buku, artikel jurnal, dan dokumen penelitian.
+
+15. Reference Manager Aplikasi untuk menyimpan, mengatur, dan menyusun referensi ilmiah, misalnya Zotero dan Mendeley.
+
+16. DOI (Digital Object Identifier) Pengidentifikasi digital permanen yang digunakan untuk membedakan dan menemukan objek digital, seperti artikel jurnal.
+
+17. Plagiarisme Tindakan menggunakan tulisan, gagasan, atau karya orang lain tanpa pengakuan atau pencantuman sumber yang semestinya.
+
+18. Plagiarism Checker Alat digital yang membandingkan teks dengan sumber lain untuk menemukan kemiripan tulisan. Hasilnya tetap perlu diperiksa karena kemiripan tidak selalu berarti plagiarisme.
+
+19. Peer Review Proses penilaian karya ilmiah oleh ahli atau peneliti lain sebelum artikel diterbitkan di jurnal.
+
+20. Database Jurnal Ilmiah Basis data yang mengumpulkan artikel ilmiah agar dapat dicari dan diakses, seperti PubMed dan DOAJ.
+
+C. Istilah dalam Publikasi dan Penyebaran Digital
+
+21. Digital Publishing Kegiatan menerbitkan dan menyebarkan konten melalui media digital, seperti situs web, platform buku elektronik, atau jurnal daring.
+
+22. Open Access Sistem publikasi yang memungkinkan pembaca mengakses karya ilmiah secara bebas tanpa biaya akses, sesuai ketentuan lisensinya.
+
+23. Repository Digital Tempat penyimpanan karya digital yang terorganisasi, misalnya repositori universitas yang menyimpan skripsi dan hasil penelitian.
+
+24. ISBN (International Standard Book Number) Nomor identifikasi standar untuk buku yang diterbitkan, termasuk buku digital yang memenuhi ketentuan ISBN.
+
+25. ISSN (International Standard Serial Number) Nomor identifikasi untuk publikasi berseri, seperti jurnal dan majalah, baik dalam bentuk cetak maupun elektronik.
+
+26. Hak Cipta Digital Hak hukum yang melindungi karya, seperti buku, artikel, gambar, dan ilustrasi dalam bentuk digital.
+
+27. Creative Commons Jenis lisensi yang memungkinkan pencipta menetapkan cara orang lain boleh menggunakan, membagikan, atau mengadaptasi karyanya.
+
+28. SEO (Search Engine Optimization) Upaya mengoptimalkan konten agar lebih mudah ditemukan melalui mesin pencari, seperti Google.
+
+29. Hyperlink Tautan digital yang menghubungkan teks, gambar, atau bagian dokumen ke halaman maupun sumber lain.
+
+30. Analitik Digital Pengumpulan dan analisis data tentang aktivitas pembaca, misalnya jumlah kunjungan, unduhan, atau interaksi dengan publikasi.
+
+D. Istilah dalam Teknologi dan Etika Literasi Digital
+
+31. Artificial Intelligence (AI) Teknologi kecerdasan buatan yang dapat membantu penulis mencari ide, menyusun kerangka, mengolah informasi, atau memperbaiki bahasa.
+
+32. Prompt Engineering Cara menyusun instruksi yang jelas dan spesifik agar AI menghasilkan jawaban yang sesuai dengan kebutuhan penulisan.
+
+33. Fact-Checking Proses memeriksa kebenaran informasi melalui sumber tepercaya sebelum informasi dimasukkan ke dalam buku atau artikel.
+
+34. Metadata Informasi yang menjelaskan suatu berkas atau publikasi, seperti judul, nama penulis, tahun terbit, kata kunci, dan jenis dokumen.
+
+35. OCR (Optical Character Recognition) Teknologi yang mengubah teks dalam gambar atau hasil pemindaian dokumen menjadi teks digital yang dapat dicari dan diedit.
+
+36. Version Control Pengelolaan versi dokumen untuk melacak perubahan naskah dan membantu penulis kembali ke versi sebelumnya jika diperlukan.
+
+37. Keamanan Digital Upaya melindungi naskah, akun, dan data penelitian dari akses tidak sah, kehilangan, atau penyalahgunaan.
+
+38. Aksesibilitas Digital Prinsip merancang publikasi agar dapat digunakan oleh berbagai pembaca, termasuk penyandang disabilitas, misalnya dengan memberikan teks alternatif pada gambar.
+
+39. Backup Data Proses membuat salinan cadangan dokumen dan data agar dapat dipulihkan jika berkas asli hilang atau rusak.
+
+40. Etika Digital Prinsip berperilaku secara bertanggung jawab di dunia digital, termasuk menghormati hak cipta, menjaga privasi, mencantumkan sumber, dan memeriksa kebenaran informasi.
+
+Kesimpulan
+
+Literasi digital berperan penting dalam pembuatan buku, penulisan jurnal ilmiah, dan publikasi digital. Dengan memahami berbagai istilah tersebut, seseorang dapat memanfaatkan teknologi secara efektif, menghasilkan karya yang berkualitas, serta menjaga keakuratan informasi dan etika dalam proses publikasi.
 
